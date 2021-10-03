@@ -17,11 +17,11 @@ admin APIs:
 
 adminsController
 
-1- api to display all infos from pics table
-2- api to approve uploading pic => change pending to 1 for specific pic id 
-3- api to decline pic => delete record for specific pic id
-4- api to approve uploading msgs => change pending to 1 for specific msg id + add record to notification table
-5- api to decline msg => delete record for specific msg id
+1- api to display all infos from pics table // DONE
+2- api to approve uploading pic => change pending to 1 for specific pic id  // DONE
+3- api to decline pic => delete record for specific pic id // DONE
+4- api to approve uploading msgs => change pending to 1 for specific msg id + add record to notification table // DONE
+5- api to decline msg => delete record for specific msg id // DONE
 
 
 ----------------------------------------
