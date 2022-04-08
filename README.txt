@@ -3,7 +3,7 @@ users APIs:
 usersController
 
 1- api to display all women users if user is a man and vise versa  //DONE
-2- api to add record to pictures table with pending 0 (waiting for admin approvale)  // 1/2 DONE
+2- api to add record to pictures table with pending 0 (waiting for admin approvale)  //  DONE
 3- api to edit profile  // DONE
 4- api to search and gender // DONE
 5- api to add record to favorite table & check if the user is in both column from and to 
